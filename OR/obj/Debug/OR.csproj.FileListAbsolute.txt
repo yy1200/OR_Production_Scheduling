@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\OR\OR\obj\Debug\OR.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OR\OR\obj\Debug\OR.Properties.Resources.resources
+C:\Users\User\source\repos\OR\OR\obj\Debug\OR.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OR\OR\obj\Debug\OR.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OR\OR\bin\Debug\OR.exe.config
+C:\Users\User\source\repos\OR\OR\bin\Debug\OR.exe
+C:\Users\User\source\repos\OR\OR\bin\Debug\OR.pdb
+C:\Users\User\source\repos\OR\OR\obj\Debug\OR.exe
+C:\Users\User\source\repos\OR\OR\obj\Debug\OR.pdb
+C:\Users\User\source\repos\OR\OR\bin\Debug\ILOG.Concert.dll
+C:\Users\User\source\repos\OR\OR\bin\Debug\ILOG.CPLEX.dll
+C:\Users\User\source\repos\OR\OR\bin\Debug\ILOG.Concert.xml
+C:\Users\User\source\repos\OR\OR\bin\Debug\ILOG.CPLEX.xml
